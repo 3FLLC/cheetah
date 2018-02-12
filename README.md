@@ -1,4 +1,3 @@
-# cheetah
-[![Waffle.io - Issues in progress](https://badge.waffle.io/WASdevelopers/cheetah.png?label=in%20progress&title=In%20Progress)](http://waffle.io/WASdevelopers/cheetah)
+# Modern Pascal [PORT] - Cheetah
 
-A clicker written in Pascal 
+A clicker written in Modern Pascal 
